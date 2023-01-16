@@ -1,0 +1,33 @@
+.main_div{
+    width: 65vw;
+    height: 75vh;
+    margin: auto;
+    background-color: rgb(7, 93, 7);
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+}
+.sec1{
+    text-align: center;
+    width: 35%;
+    height: 95%;
+    background-color: aliceblue;
+}
+#res{
+    width: 55px;
+    
+    background-color: antiquewhite;
+
+}
+.sec2{
+    text-align: center;
+    width: 35%;
+    height: 95%;
+    background-color: aliceblue;
+}
+.case{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    margin: 20px;
+}
